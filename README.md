@@ -1,2 +1,2 @@
-# Principal.java
-Laboratorio UPM sistemas de telecomunicaciones 
+# Laboratorio 8.java
+Autora: Stefhanie Milagros Jaramillo Huaman

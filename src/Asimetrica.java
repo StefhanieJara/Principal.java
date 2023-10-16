@@ -1,6 +1,6 @@
 
 /**Nombre: Stefhanie Milagros Jaramillo Huaman
- Horario: V10V11
+
 
  ***/
 

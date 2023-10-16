@@ -1,12 +1,6 @@
-/**Fichero: Principal.java
- * Clase para comprobar el funcionamiento de las otras clases del paquete.
- * Asignatura: SEG
- * @author Profesores de la asignatura
- * @version 1.0
- */
 
 /**Nombre: Stefhanie Milagros Jaramillo Huaman
- Horario: V10V11
+
 
  ***/
 
